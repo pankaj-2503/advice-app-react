@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to this project: https://glowing-valkyrie-dad298.netlify.app
 
 ## Available Scripts
 
